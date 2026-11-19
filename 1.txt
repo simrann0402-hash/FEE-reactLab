@@ -1,0 +1,4 @@
+npm install @supabase/supabase-js
+npm install zustand
+npm install react-toastify
+npm install react-router-dom

@@ -1,0 +1,72 @@
+JS 
+props-
+UI
+web application-
+forms-
+router-
+component-
+onSubmit-
+multipages-
+react
+Zustand-
+UX-
+map -
+filter-
+onClick-
+state-
+buttons-
+links-
+validation-
+CSS
+function-
+global state-
+nested routes-
+
+Importance:-
+JS
+react
+Component
+props
+state
+function
+Forms
+onSubmit
+validation
+onClick
+router
+multipages
+CSS
+Zustand
+global state
+nested Routes
+map
+filter
+button
+links
+UI
+UX
+web application    
+
+
+1)Web application-
+Web application is a software that runs on a browser. It provides interactive interface for users which can be accessed
+using internet. It uses technologies like HTML, CSS, Javascript etc. For example:- gmail, amazon, facebook etc.
+Key-words: browser, interface, internet
+
+2)javascript functions-
+A function is a block of reusable code which performs a specific task. They execute when they are called. They can accept inputs
+like parameters and return the output.
+Key-words:reusable, task, called, parameters
+
+3)react-
+React is a javascript library which is used to buid user interfaces. It helps to create interactive websites. It uses reusable
+components to organize the code. It has features like props, hooks, states, routing etc.
+Key-words: js library, interfaces, interactive, reusable
+
+4)CSS- 
+CSS means cascading Style sheets. It is used to style web pages. We can control font, size, layout and colors with CSS. It helps in making website attractive and user-friendly. It can be applied using inline, internal and external CSS.
+Key-words:web pages, font, size, layout
+
+5)components- 
+Components are the basic parts of react. They are usable pieces of code. Each component represents a part of the user interface and thus makes it easier to manage. 
+Key-words: usable, easy, manage
