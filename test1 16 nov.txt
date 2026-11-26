@@ -70,3 +70,14 @@ Key-words:web pages, font, size, layout
 5)components- 
 Components are the basic parts of react. They are usable pieces of code. Each component represents a part of the user interface and thus makes it easier to manage. 
 Key-words: usable, easy, manage
+
+6)Form- It is used to collect information from users. It contains input fields, buttons, dropdowns, checkboxes. <form> tag is 
+used to create it. They are used for login, registration, feedback and data collection. Js and react help validate and handle
+the form data
+Key-words: buttons, checkboxes, dropdowns, collect, information.
+
+7)State-It is used to store and manage data and represents current condition of a component. There are hooks like useState() to
+manage state. When the state changes, react re-renders the component. 
+Key-words:store, manage, useState(), re-renders
+
+
